@@ -1,0 +1,7 @@
+p-motion用にＩＫ化したものになります。
+全ては、ままま様のライセンス条項に従ってください。
+
+Appearance Miku_IK.pmx 	IK化モデル
+Appearance Miku.pmx 	元ファイル
+
+トトトマト
